@@ -1,0 +1,1 @@
+{"name":"Local: arr1_subset_arr2","url":"d:\\OneDrive\\Desktop\\Striveer\\Array\\arr1_subset_arr2.java","tests":[{"id":1729520075370,"input":"3\n1 2 3\n5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OneDrive\\Desktop\\Striveer\\Array\\arr1_subset_arr2.java","group":"local","local":true}

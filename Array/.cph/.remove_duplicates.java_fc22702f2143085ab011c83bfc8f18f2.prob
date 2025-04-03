@@ -1,0 +1,1 @@
+{"name":"Local: remove_duplicates","url":"d:\\OneDrive\\Desktop\\Striveer\\Array\\remove_duplicates.java","tests":[{"id":1729521070272,"input":"10\n1 1 4 5 5 4 2 2 2 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OneDrive\\Desktop\\Striveer\\Array\\remove_duplicates.java","group":"local","local":true}
