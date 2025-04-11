@@ -1,4 +1,4 @@
-package LinkedList;
+
 class Node {
     public int data;
     public Node next;
@@ -19,7 +19,6 @@ class Node {
 }
 
 public class Length_Loop {
-
     public static int findLength(Node slow, Node fast){
         int count =1;
         fast = fast.next;
@@ -28,17 +27,13 @@ public class Length_Loop {
             fast = fast.next;
         }
         return count;
-
     }
-
     public static int lengthLoop(Node head){
         Node slow = head;
         Node fast = head;
-
         while(fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
-
             if(slow == fast){
                 return findLength(slow, fast);
             }

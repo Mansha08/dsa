@@ -1,4 +1,4 @@
-package LinkedList;
+
 import java.util.*;
 // Node class to represent a linked list node
 class Node{
