@@ -1,5 +1,4 @@
-
-import java.util.Stack;
+import java.util.*;
 
 class Node {
     int data;
